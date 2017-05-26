@@ -28,8 +28,8 @@
         _topPhotoBoworr.boworrWidth = Screen_Width - 30;
         _topPhotoBoworr.pageControlAliment = SDCycleScrollViewPageContolAlimentRight;
         _topPhotoBoworr.bannerImageViewContentMode = UIViewContentModeScaleAspectFill;
-        _topPhotoBoworr.boworrWidth = Screen_Width-20;
-        _topPhotoBoworr.cellSpace = 2;
+        _topPhotoBoworr.boworrWidth = Screen_Width-40;
+        _topPhotoBoworr.cellSpace = 5;
         _topPhotoBoworr.titleLabelHeight = 60;
 //        self.view.userInteractionEnabled
 //        _topPhotoBoworr.autoScroll = NO;
